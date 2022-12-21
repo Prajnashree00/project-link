@@ -4,3 +4,4 @@ https://codalab.lisn.upsaclay.fr/competitions/7434
 
 hope speech:
 https://github.com/adeepH/kan_hope
+https://www.youtube.com/watch?v=2aSw1Z9pH5M
