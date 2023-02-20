@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=2aSw1Z9pH5M
 
 cyber security:
 https://www.guru99.com/cybercrime-types-tools-examples.html
+
+malversting:
+https://www.crowdstrike.com/cybersecurity-101/malware/malvertising/
